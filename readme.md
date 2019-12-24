@@ -2,10 +2,10 @@
 
 React material ui form validator and form handler.
 
-RMFV, doğrulama motoru olarak [Validator.js] (https://github.com/chriso/validator.js) ve HTTP istekleri için [Axios] (https://github.com/axios/axios) kullanır.
+RMFV, doğrulama motoru olarak [Validator.js](https://github.com/chriso/validator.js) ve HTTP istekleri için [Axios](https://github.com/axios/axios) kullanır.
 
 
-Bu [ÖZGÜR ÖZER] ( https://github.com/ozgrozer ) Arkadaşımızın geliştirmiş olduğu form validator'dür. Gayet Başarılı ve düzgün çalışmakta aynı zamanda işlerimizi inanılmaz kolaylaştırmata. Bu konuda [Özgür] ( https://github.com/ozgrozer ) arkadaşımızı tebrik ediyorum. Bu paketi Material UI react js için uyarlamaya çalıştım. Eksikleri olabilir bu konuda desteklerizi bekliyorum.
+Bu [ÖZGÜR ÖZER]( https://github.com/ozgrozer ) Arkadaşımızın geliştirmiş olduğu form validator'dür. Gayet Başarılı ve düzgün çalışmakta aynı zamanda işlerimizi inanılmaz kolaylaştırmata. Bu konuda [Özgür] ( https://github.com/ozgrozer ) arkadaşımızı tebrik ediyorum. Bu paketi Material UI react js için uyarlamaya çalıştım. Eksikleri olabilir bu konuda desteklerizi bekliyorum.
 
 
 ## Yükleme
