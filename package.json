@@ -1,0 +1,46 @@
+{
+  "name": "rmfv",
+  "version": "0.0.34",
+  "description": "React Material UI Form Validator",
+  "main": "./build/Rmfv.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baymikro3746/rmfv.git"
+  },
+  "author": {
+    "name": "Bayram Özkulluk",
+    "email": "info@interyum.com",
+    "url": "https://github.com/baymikro3746"
+  },
+  "keywords": [
+    "react",
+    "form-validator",
+    "form-validation",
+    "react-form-validator",
+    "react-form-validation"
+  ],
+  "scripts": {
+    "start": "parcel ./example/index.html --out-dir ./dist --public-url / --port 1144",
+    "build": "babel --plugins transform-react-jsx ./src/Rmfv.jsx > ./build/Rmfv.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@material-ui/core": "^4.8.1",
+    "axios": "^0.19.0",
+    "validator": "^12.0.0"
+  },
+  "peerDependencies": {
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "parcel-bundler": "^1.12.4",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  }
+}
