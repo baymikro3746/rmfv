@@ -1,6 +1,6 @@
 {
   "name": "rmfv",
-  "version": "0.0.34",
+  "version": "0.0.4",
   "description": "React Material UI Form Validator",
   "main": "./build/Rmfv.js",
   "repository": {
